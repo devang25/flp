@@ -11,9 +11,9 @@ $insert = false;
 $claim = false;
 //Connecting to the database
 $servername = "localhost";
-$username = "id17346775_root";
-$password = "AS&2]Q0Lu@cbR8hH";
-$database = "flp";
+$username = "root";
+$password = "";
+$database = "fdp";
 
 // Create a connection
 $conn = mysqli_connect($servername, $username, $password, $database);
